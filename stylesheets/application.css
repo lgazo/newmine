@@ -315,11 +315,9 @@ div.issue div.subject p{
     color:#222;
 }
 div.issue div.subject > div p{
-    float:left;
     margin:2px 5px 0 0;
     padding:0;
     font-weight:bold;
-    font-size:16px;
 }
 div.issue div.subject > div > p{
     margin:2px 5px 0 10px;
