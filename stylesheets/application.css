@@ -1212,3 +1212,12 @@ nav#menu {
   padding:2px 0;
   border-bottom:1px solid #222;
 }
+
+/************ seges custom *********/
+
+/* so the issues table fits into the screen and you dont have to scroll around too much */
+tr.issue td.subject, tr.issue td.category, td.assigned_to, tr.issue td.string, tr.issue td.text, tr.issue td.relations,
+table.list tr a {
+	white-space: normal;
+}
+
